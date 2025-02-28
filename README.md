@@ -1,1 +1,1 @@
-semplici giochini scritti in python (non funzionano)
+semplici giochini scritti in python (othello non funziona)
